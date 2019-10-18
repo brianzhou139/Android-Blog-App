@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121898889792",
+    "firebase_url": "https://blogapp-7ad10.firebaseio.com",
+    "project_id": "blogapp-7ad10",
+    "storage_bucket": "blogapp-7ad10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121898889792:android:377d48543e22bce2a625a5",
+        "android_client_info": {
+          "package_name": "com.edufree.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121898889792-hrlopn846v2tof6s86ialc1sbuqfa27c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Ikx6IVvVFMQwQfT8ZzmstKsvjHA-YQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121898889792-hrlopn846v2tof6s86ialc1sbuqfa27c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

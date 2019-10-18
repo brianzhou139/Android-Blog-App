@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\96499d30bd790d600feb905eb6b43612\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\bac0757194c0b6aafb208623742c3c75\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\b31a647e9fff2edd93b85f9e84f6911b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8edb5af7397eee54301358703f7c2fe6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:15:1-26:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\b09207fcbc6b35e05d7ac1f9ee9da8e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\833102f2712894ad99511e8d19830269\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\cf16ba7d5924da1f101c4886ad2563f9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a0e44939b309c407a568f9fb5c0d8546\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\dc9c2f6009229909e065a285707f46d9\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\fd7cb2ddd5805ee2a8743d99c9bf6408\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4a5cffb5203ba3481fed4ca575d20c66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\9de3494cf4739f90fc7342fa9ed8f47a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\19b5273004548fefc68f3176b900c712\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\d1ebb1c41f532499e4e4aa24d5c6fcef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\189956d67b2e7b4c161b4323e92b7d49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\9ce3ea139946d845642032329ac6d77e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\92dd9382e3add65b1c93b10f19ec62a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\2b98ab8584630b4e9c861e318f6fb8c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ce8d6a37e1aa97683f4ccb74a663e838\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\96cdc1ea777e5c8d4c7cc96482acf7c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ab34fdce5ce07a530bd7c14b1bc61132\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\05ab7d410ca0d3885287bcda85ca4ab5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\69bd138a832d053ed78766cc690e435b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\58f091c37bc33c54e0270001f0bb3751\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\87f7ef9aae754eb2c425b9e3f71fb7b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6232380380751f1bdc7fc36bfc8c40c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e5c7edcfde7464f123418912e0cc0470\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\1060a029ce4f8e07aca2e578ee292ada\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8af81272040942f9563fda489bc39e4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\42aed43b7f644203276d2e5002795102\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\f1c914402c74b1928925d626024edf6a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\148b89ca0eb023fe2744e7a67f132c73\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5ca0787b5ec730fb85e2ecdddeae983e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\0cf22e63839359943e92ab1e23cf6bf8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e46e371dea22295d2fd77dfe8abf1651\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6cf7276781dfb407e7e6ef9a8d8f872c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\fbfa14dee7113ee59561148bfd72a2ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ce98fd9a3cbcc13c892bc947842b703f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8831521773dbf2b6356d7c1994ec88d1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\bac0757194c0b6aafb208623742c3c75\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\bac0757194c0b6aafb208623742c3c75\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8edb5af7397eee54301358703f7c2fe6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8edb5af7397eee54301358703f7c2fe6\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:23:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\cf16ba7d5924da1f101c4886ad2563f9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\cf16ba7d5924da1f101c4886ad2563f9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a0e44939b309c407a568f9fb5c0d8546\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a0e44939b309c407a568f9fb5c0d8546\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e5c7edcfde7464f123418912e0cc0470\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e5c7edcfde7464f123418912e0cc0470\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\1060a029ce4f8e07aca2e578ee292ada\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\1060a029ce4f8e07aca2e578ee292ada\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e5c7edcfde7464f123418912e0cc0470\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.edufree.blogapp.Activities.Home
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:14:9-17:68
+	android:label
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:16:13-56
+	android:theme
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:15:13-44
+activity#com.edufree.blogapp.Activities.LoginActivity
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:18:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.edufree.blogapp.Activities.HomeActivity
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:25:19-58
+activity#com.edufree.blogapp.Activities.RegisterActivity
+ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:26:9-65
+	android:name
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml:26:19-62
+uses-sdk
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\96499d30bd790d600feb905eb6b43612\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\96499d30bd790d600feb905eb6b43612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\bac0757194c0b6aafb208623742c3c75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\bac0757194c0b6aafb208623742c3c75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\b31a647e9fff2edd93b85f9e84f6911b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\b31a647e9fff2edd93b85f9e84f6911b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8edb5af7397eee54301358703f7c2fe6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8edb5af7397eee54301358703f7c2fe6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:19:5-21:41
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\b09207fcbc6b35e05d7ac1f9ee9da8e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\b09207fcbc6b35e05d7ac1f9ee9da8e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\833102f2712894ad99511e8d19830269\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\833102f2712894ad99511e8d19830269\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\cf16ba7d5924da1f101c4886ad2563f9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\cf16ba7d5924da1f101c4886ad2563f9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a0e44939b309c407a568f9fb5c0d8546\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a0e44939b309c407a568f9fb5c0d8546\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\dc9c2f6009229909e065a285707f46d9\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\dc9c2f6009229909e065a285707f46d9\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\fd7cb2ddd5805ee2a8743d99c9bf6408\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\fd7cb2ddd5805ee2a8743d99c9bf6408\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4a5cffb5203ba3481fed4ca575d20c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4a5cffb5203ba3481fed4ca575d20c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\9de3494cf4739f90fc7342fa9ed8f47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\9de3494cf4739f90fc7342fa9ed8f47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\19b5273004548fefc68f3176b900c712\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\19b5273004548fefc68f3176b900c712\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\d1ebb1c41f532499e4e4aa24d5c6fcef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\d1ebb1c41f532499e4e4aa24d5c6fcef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\189956d67b2e7b4c161b4323e92b7d49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\189956d67b2e7b4c161b4323e92b7d49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\9ce3ea139946d845642032329ac6d77e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\9ce3ea139946d845642032329ac6d77e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\92dd9382e3add65b1c93b10f19ec62a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\92dd9382e3add65b1c93b10f19ec62a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\2b98ab8584630b4e9c861e318f6fb8c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\2b98ab8584630b4e9c861e318f6fb8c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ce8d6a37e1aa97683f4ccb74a663e838\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ce8d6a37e1aa97683f4ccb74a663e838\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\96cdc1ea777e5c8d4c7cc96482acf7c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\96cdc1ea777e5c8d4c7cc96482acf7c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ab34fdce5ce07a530bd7c14b1bc61132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ab34fdce5ce07a530bd7c14b1bc61132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\05ab7d410ca0d3885287bcda85ca4ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\05ab7d410ca0d3885287bcda85ca4ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\69bd138a832d053ed78766cc690e435b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\69bd138a832d053ed78766cc690e435b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\58f091c37bc33c54e0270001f0bb3751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\58f091c37bc33c54e0270001f0bb3751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\87f7ef9aae754eb2c425b9e3f71fb7b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\87f7ef9aae754eb2c425b9e3f71fb7b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6232380380751f1bdc7fc36bfc8c40c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6232380380751f1bdc7fc36bfc8c40c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e5c7edcfde7464f123418912e0cc0470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e5c7edcfde7464f123418912e0cc0470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\1060a029ce4f8e07aca2e578ee292ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\1060a029ce4f8e07aca2e578ee292ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8af81272040942f9563fda489bc39e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8af81272040942f9563fda489bc39e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\42aed43b7f644203276d2e5002795102\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\42aed43b7f644203276d2e5002795102\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\f1c914402c74b1928925d626024edf6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\f1c914402c74b1928925d626024edf6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\148b89ca0eb023fe2744e7a67f132c73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\148b89ca0eb023fe2744e7a67f132c73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5ca0787b5ec730fb85e2ecdddeae983e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5ca0787b5ec730fb85e2ecdddeae983e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\0cf22e63839359943e92ab1e23cf6bf8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\0cf22e63839359943e92ab1e23cf6bf8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e46e371dea22295d2fd77dfe8abf1651\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\e46e371dea22295d2fd77dfe8abf1651\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6cf7276781dfb407e7e6ef9a8d8f872c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6cf7276781dfb407e7e6ef9a8d8f872c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\fbfa14dee7113ee59561148bfd72a2ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\fbfa14dee7113ee59561148bfd72a2ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ce98fd9a3cbcc13c892bc947842b703f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\ce98fd9a3cbcc13c892bc947842b703f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8831521773dbf2b6356d7c1994ec88d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8831521773dbf2b6356d7c1994ec88d1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\insol\AndroidStudioProjects\BlogApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28b37bcb6c2961d42ef24408cdc7a8a4\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\6975a609a6cfa49757f992fc02b2760e\AndroidManifest.xml:23:22-64
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\28294c0fa91e9e506c6c1f8b1c0d8506\AndroidManifest.xml:37:17-109
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\a93b940480798fa0a85fd3afe38df920\AndroidManifest.xml:24:13-83
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\99efc508a30475de99a656b0eb499bd0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\152ba23982dda8f0b980641367a248fa\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\4c49b18933970a319724583202c96ec7\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\5cf3e9b11655c49f251d18e1b871119c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\insol\.gradle\caches\transforms-2\files-2.1\8c28bf4e927f0efbc56a14e190f530a5\AndroidManifest.xml:27:13-51
